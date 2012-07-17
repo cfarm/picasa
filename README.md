@@ -17,6 +17,10 @@ Run it by using:
 ```
 picasa user_id [--resume=album_name] [--force] [--username=google_username] [--password=google_password]
 ```
+Test:
+```
+picasa 108527329601014444443 [--resume=Coney Island Mermaid Parade 2012] [--force] [--username=google_username] [--password=google_password]
+```
 
  - user_id can either be the user's numeric Google ID or their Gmail address (with '@gmail.com' at the end)
 
